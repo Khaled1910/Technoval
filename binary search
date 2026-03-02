@@ -1,0 +1,2 @@
+when to use binary search?
+I should use binary search when the list is sorted and I need a fast search, because it runs in O(log n) time, which is faster than linear search that runs in O(n) time.
